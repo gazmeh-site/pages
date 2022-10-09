@@ -48,6 +48,14 @@ const test = 'hello';
 const other = 'world';
 console.log(test, other);
 ```
+
+بلاک کد می‌تواند عنوان داشته باشد:
+
+```
+[label Output]
+Could not connect to server: Connection refused
+```
+
 برای اضافه کردن شماره خط از `line_numbers` استفاده میکنیم:
 ```line_numbers,js
 const test = 'hello';
