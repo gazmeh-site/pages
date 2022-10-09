@@ -34,16 +34,26 @@
 
 ![Alt text for screen readers](https://raw.githubusercontent.com/gazmeh-site/general-docs/main/how-to-use-our-md-syntax/resources/img.png "Just a smaple image with a caption")
 
+برای خط جداکننده افقی از سه دش استفاده می‌کنیم:
+
+---
+
+
 
 ## قواعد کد و بلاک کد
 این یک `کد اینلاین` است. متغیر `x‍` یک متغیر جنرال است.
 
+```js
+const test = 'hello';
+const other = 'world';
+console.log(test, other);
+```
+برای اضافه کردن شماره خط از `line_numbers` استفاده میکنیم:
 ```line_numbers,js
 const test = 'hello';
 const other = 'world';
 console.log(test, other);
 ```
-
 ### کادرهای پیام
 
 در ادامه کادرهای پیام‌ برای نکته، اخطار، توضیح و پیش‌نویس را می‌بینید:
