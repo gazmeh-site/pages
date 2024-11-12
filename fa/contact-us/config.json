@@ -4,5 +4,10 @@
   "tags": [
     "راهنما"
   ],
+  
+  "image":"./resources/cover.png",
+  "cover":"./resources/cover.png",
+  "thumbnail":"resources/thumbnail.png",
+
   "author": "مهدی امیری"
 }
