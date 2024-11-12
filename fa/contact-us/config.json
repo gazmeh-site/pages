@@ -6,8 +6,8 @@
   ],
   
   "image":"./resources/cover.png",
-  "cover":"./resources/cover.png",
-  "thumbnail":"resources/thumbnail.png",
+  "coverImage":"./resources/cover.png",
+  "thumbnailImage":"resources/thumbnail.png",
 
   "author": "مهدی امیری"
 }
