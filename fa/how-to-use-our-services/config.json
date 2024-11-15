@@ -4,5 +4,7 @@
   "tags": [
     "راهنما"
   ],
+  "image":"./resources/cover.webp",
+  "coverImage":"./resources/cover.webp",
   "author": "مهدی امیری"
 }
