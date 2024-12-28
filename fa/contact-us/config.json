@@ -6,7 +6,7 @@
   ],
   
   "image":"./resources/cover.webp",
-  "coverImage":"./resources/cover.webp",
+  "imageCover":"./resources/cover.webp",
 
   "author": "مهدی امیری"
 }
