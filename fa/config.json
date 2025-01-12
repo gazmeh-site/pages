@@ -1,5 +1,3 @@
 {
-  "vars":{
-    "siteUrl":"https://gazmeh.ir/fa/pages"
-  }
+  "__SITE_URL__":"https://gazmeh.ir/fa/pages"
 }
