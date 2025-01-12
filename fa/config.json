@@ -1,5 +1,5 @@
 {
-  "contentVars":{
-    "SITE_URL":"https://gazmeh.ir/fa/pages"
+  "vars":{
+    "siteUrl":"https://gazmeh.ir/fa/pages"
   }
 }
