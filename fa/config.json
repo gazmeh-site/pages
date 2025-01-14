@@ -1,5 +1,5 @@
 {
   "vars": {
-    "__site_url__": "https://gazmeh.ir/fa/pages"
+    "BASE_URL": "https://gazmeh.ir/fa/pages"
   }
 }
