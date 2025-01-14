@@ -1,5 +1,7 @@
 {
   "vars": {
-    "BASE_URL": "https://gazmeh.ir/fa/pages"
+    "SITE_URL": "https://gazmeh.ir/fa",
+    "PAGES_URL": "https://gazmeh.ir/fa/pages",
+    "POSTS_URL": "https://gazmeh.ir/fa/posts"
   }
 }

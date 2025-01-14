@@ -24,6 +24,6 @@
 
 **شروع کار با گـزمـه**
 
-* [برای کسب اطلاعات بیشتر با ما تماس بگیرید.](https://gazmeh.ir/fa/pages/contact-us)
-* [درخواست مشاوره رایگان بدهید.](https://gazmeh.ir/fa/how-to-use)
-* [به کاربران گزمه بپیوندید.](https://gazmeh.ir/fa/auth/login)
+* [برای کسب اطلاعات بیشتر با ما تماس بگیرید.]($PAGES_URL/contact-us)
+* [درخواست مشاوره رایگان بدهید.]($PAGES_URL/how-to-use)
+* [به کاربران گزمه بپیوندید.]($SITE_URL/auth/login)
