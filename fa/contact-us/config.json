@@ -6,7 +6,10 @@
   ],
   
   "image":"./resources/cover.webp",
-  "imageCover":"./resources/cover.webp",
+
+  "style":{
+    "image":"grayscale border-1"
+  },
 
   "author": "مهدی امیری"
 }
