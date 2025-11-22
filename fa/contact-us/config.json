@@ -5,11 +5,7 @@
     "راهنما"
   ],
   
-  "image":"./resources/cover.webp",
-
-  "style":{
-    "image":"grayscale border-1"
-  },
+  "image":"./resources/image.webp",
 
   "author": "مهدی امیری"
 }
