@@ -8,7 +8,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./resources/test-levels.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/test-levels-dark.png">
   <img alt="test-levels image" src="./resources/test-levels.png">
 </picture>
 
@@ -18,7 +18,7 @@
 * **سطح Integration / API:** این سطح به بررسی صحت عملکرد ارتباط بین ماژول‌های داخلی یک محصول با یکدیگر می‌پردازد. به عنوان نمونه ارتباط یک سرویس با پایگاه‌داده یا ارتباط سرویس‌های مختلف در یک سیستم مبتنی بر میکروسرویس. معمولا در فریمورک‌های مختلف ابزاری را برای ارزیابی در این سطح در اختیار برنامه‌نویس قرار می‌دهند مانند `Spring Boot Test` در فریمورک مبتنی بر Spring، البته در یک سیستم میکروسرویس می‌توان با استفاده از ابزار `Postman` و یا `JMeter` در سطح API نیز ارتباط بین میکروسرویس‌ها را مورد ارزیابی قرار داد.
 
 ::: info
-برای اطلاعات بیشتر از نحوه کار با ابزار Postman به مقاله [لینک](https://#) و نحوه کار با ابزار JMeter به مقاله [لینک](https://#) مراجعه نمایید. 
+برای اطلاعات بیشتر از نحوه کار با ابزار Postman به مقاله و نحوه کار با ابزار JMeter به مقاله  مراجعه نمایید. 
 :::
 
 
