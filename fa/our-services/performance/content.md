@@ -5,7 +5,10 @@
 
 ## تست بار (load)
 
-![load-test-pic](./resources/load-test.png "load-test")
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/load-test-dark.webp">
+  <img alt="load test image" src="./resources/load-test.webp">
+</picture>
 
  این تست به منظور ارزیابی سیستم با شرایط و متغیر‌هایی نزدیک محیط عملیاتی در مدت زمان ۳۰ تا ۶۰ دقیقه انجام می‌گیرد. به عنوان مثال بر اساس ارزیابی‌های انجام شده سیستم باید بتواند تعاملات ۵۰۰۰ کاربر همزمان را پشتیبانی نماید. به منظور پیاده‌سازی تست بار، مشابه حالت ذکر شده شبیه‌سازی گردیده و بار مورد نظر بر روی سیستم تزریق می‌گردد.
 
