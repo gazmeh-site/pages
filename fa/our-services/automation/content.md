@@ -8,8 +8,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./resources/test-levels-dark.png">
-  <img alt="test-levels image" src="./resources/test-levels.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/test-levels-dark.webp">
+  <img alt="test-levels image" src="./resources/test-levels.webp">
 </picture>
 
 
