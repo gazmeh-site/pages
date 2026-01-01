@@ -76,7 +76,7 @@
 title: اصول آزمون کارایی
 description: آشنایی با مفاهیم پایه، انواع آزمون‌های کارایی و طراحی سناریوهای اولیه تست با تمرکز بر JMeter
 icon: i-lucide-gauge
-to: /workshops/performance-testing-basics
+to: /workshops/performance-basics
 color: primary
 ---
 کارگاهی مقدماتی برای شروع مسیر **آزمون‌های کارایی نرم‌افزار** که پیش‌نیاز مناسب این دوره پیشرفته محسوب می‌شود.
