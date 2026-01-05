@@ -1,0 +1,9 @@
+{
+  "title": "آزمون واحد",
+  "desc": "آموزش اصولی Unit Testing با تمرکز بر JUnit 5، Mockito، کیفیت تست‌ها، پوشش کد، آزمون جهش و یکپارچه‌سازی با DevOps",
+  "tags": [
+    "راهنما"
+  ]
+,
+  "image":"./resources/image.webp"
+}

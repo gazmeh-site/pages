@@ -1,0 +1,8 @@
+{
+  "title": "خودکارسازی آزمون‌های API",
+  "desc": "آموزش طراحی و پیاده‌سازی تست‌های API به‌صورت CRUD و BDD با استفاده از Postman، Cucumber و JMeter",
+  "tags": [
+    "راهنما"
+  ],
+  "image":"./resources/image.webp"
+}
