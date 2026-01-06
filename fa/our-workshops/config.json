@@ -1,3 +1,6 @@
 {
-    "class":"rounded-full"
+    "class":"folder-class",
+    "style": { 
+        "image":"rounded-full"
+    }
 }
