@@ -68,18 +68,24 @@
 ::
 
 ## کارگاه‌های مرتبط
-
 ::card-group
+  ::card
+  ---
+  title: اصول تست‌های کارایی
+  icon: i-lucide-layers
+  to: $PAGES_URL/our-workshops/performance-basics
+  color: primary
+  ---
+  پایه مفهومی برای طراحی تست‌های کارایی پیشرفته.
+  ::
 
-::card
----
-title: اصول آزمون کارایی
-description: آشنایی با مفاهیم پایه، انواع آزمون‌های کارایی و طراحی سناریوهای اولیه تست با تمرکز بر JMeter
-icon: i-lucide-gauge
-to: /workshops/performance-basics
-color: primary
----
-کارگاهی مقدماتی برای شروع مسیر **آزمون‌های کارایی نرم‌افزار** که پیش‌نیاز مناسب این دوره پیشرفته محسوب می‌شود.
-::
-
+  ::card
+  ---
+  title: پایش منابع و آنلاین مانیتورینگ
+  icon: i-lucide-server
+  to: $PAGES_URL/our-workshops/monitoring
+  color: primary
+  ---
+  تحلیل رفتار سامانه در تست‌های سنگین و طولانی‌مدت.
+  ::
 ::

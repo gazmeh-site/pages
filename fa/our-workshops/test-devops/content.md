@@ -85,3 +85,26 @@ navigation.icon: i-lucide-git-branch
 :::
 
 ::
+
+## کارگاه‌های مرتبط
+::card-group
+  ::card
+  ---
+  title: آزمون واحد
+  icon: i-lucide-code
+  to: $PAGES_URL/our-workshops/unit-test
+  color: primary
+  ---
+  ایجاد و اجرای تست‌های واحد در فرآیند CI/CD.
+  ::
+
+  ::card
+  ---
+  title: خودکارسازی آزمون‌های API
+  icon: i-lucide-plug
+  to: $PAGES_URL/our-workshops/automation-regression-api
+  color: primary
+  ---
+  اجرای تست‌های خودکار API در خط لوله DevOps.
+  ::
+::

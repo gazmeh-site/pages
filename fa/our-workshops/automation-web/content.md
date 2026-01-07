@@ -41,6 +41,22 @@ navigation.icon: i-lucide-globe
 - امکانات، مولفه‌ها و معماری Selenium  
 :::
 
+## کارگاه‌های مرتبط
+
+::card-group
+
+::card
+---
+title: خودکارسازی آزمون‌های موبایل
+description: آموزش خودکارسازی آزمون‌های رابط کاربری موبایل با Appium
+icon: i-lucide-smartphone
+to: /workshops/automation-mobile
+color: primary
+---
+یادگیری تست خودکار اپلیکیشن‌های موبایل و توسعه مهارت‌های تست چندپلتفرمی.
+::
+::
+
 :::accordion-item{label="ضبط سناریو و تولید اسکریپت آزمون"}
 - راه‌اندازی Selenium IDE  
 - ضبط تعاملات مرورگر و تولید اسکریپت آزمون  
@@ -88,4 +104,27 @@ navigation.icon: i-lucide-globe
 - راه‌اندازی Device Farm محلی با Selenium Grid  
 :::
 
+::
+
+## کارگاه‌های مرتبط
+::card-group
+  ::card
+  ---
+  title: کارگاه خودکارسازی آزمون‌های موبایل
+  icon: i-lucide-tablet
+  to: $PAGES_URL/our-workshops/automation-mobile
+  color: primary
+  ---
+  تمرکز عمیق‌تر بر پیاده‌سازی تست‌های UI وب با Selenium.
+  ::
+
+  ::card
+  ---
+  title: تجمیع پیوسته و تضمین کیفیت سورس کد
+  icon: i-lucide-git-branch
+  to: $PAGES_URL/our-workshops/test-devops
+  color: primary
+  ---
+  اجرای تست‌های خودکار وب در خط لوله CI/CD.
+  ::
 ::

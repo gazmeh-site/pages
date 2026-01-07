@@ -8,6 +8,22 @@ navigation.icon: i-lucide-plug
 در این کارگاه، فرآیند **طراحی، خودکارسازی و اجرای تست‌های API** بدون وابستگی به واسط کاربری (UI) به‌صورت عملی آموزش داده می‌شود.
 ::
 
+## کارگاه‌های مرتبط
+
+::card-group
+
+::card
+---
+title: خودکارسازی با جی‌میتر
+description: آموزش طراحی و پیاده‌سازی سناریوهای خودکار تست سامانه‌های تحت وب با استفاده از JMeter
+icon: i-lucide-gauge
+to: /workshops/automation-jmeter
+color: primary
+---
+آشنایی با ابزار JMeter و کاربرد آن در تست‌های خودکار و کارایی.
+::
+::
+
 ## معرفی کارگاه
 
 تست‌های API یکی از مهم‌ترین شاخص‌های ارزیابی **عملکرد صحیح هسته سامانه** هستند.  
@@ -77,4 +93,27 @@ navigation.icon: i-lucide-plug
 - اجرای تست‌ها در حالت Headless و محیط دستوری  
 :::
 
+::
+
+## کارگاه‌های مرتبط
+::card-group
+  ::card
+  ---
+  title: خودکارسازی با جی‌میتر
+  icon: i-lucide-repeat
+  to: $PAGES_URL/our-workshops/automation-jmeter
+  color: primary
+  ---
+  پیاده‌سازی تست‌های خودکار و کارایی API با JMeter.
+  ::
+
+  ::card
+  ---
+  title: اصول تست‌های کارایی
+  icon: i-lucide-gauge
+  to: $PAGES_URL/our-workshops/performance-basics
+  color: primary
+  ---
+  تحلیل رفتار و کارایی APIها تحت بار.
+  ::
 ::

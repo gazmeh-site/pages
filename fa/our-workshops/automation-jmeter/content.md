@@ -103,3 +103,27 @@ navigation.icon: i-lucide-gauge
 :::
 
 ::
+
+
+## کارگاه‌های مرتبط
+::card-group
+  ::card
+  ---
+  title: اصول تست‌های کارایی
+  icon: i-lucide-gauge
+  to: $PAGES_URL/our-workshops/performance-basics
+  color: primary
+  ---
+  آشنایی با مفاهیم پایه تست‌های کارایی و طراحی سناریوهای تست.
+  ::
+
+  ::card
+  ---
+  title: تست‌های کارایی پیشرفته
+  icon: i-lucide-activity
+  to: $PAGES_URL/our-workshops/performance-pro
+  color: primary
+  ---
+  طراحی سناریوهای پیچیده و تحلیل پیشرفته نتایج تست با JMeter.
+  ::
+::

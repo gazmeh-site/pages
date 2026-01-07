@@ -90,3 +90,26 @@ navigation.icon: i-lucide-check-circle
 :::
 
 ::
+
+## کارگاه‌های مرتبط
+::card-group
+  ::card
+  ---
+  title: تجمیع پیوسته و تضمین کیفیت سورس کد
+  icon: i-lucide-settings
+  to: $PAGES_URL/our-workshops/test-devops
+  color: primary
+  ---
+  ادغام تست‌های واحد با CI/CD و کنترل کیفیت کد.
+  ::
+
+  ::card
+  ---
+  title: خودکارسازی آزمون‌های وب
+  icon: i-lucide-globe
+  to: $PAGES_URL/our-workshops/automation-mobile
+  color: primary
+  ---
+  تکمیل زنجیره تست از سطح واحد تا رابط کاربری وب.
+  ::
+::
