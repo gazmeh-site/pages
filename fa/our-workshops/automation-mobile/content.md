@@ -40,22 +40,6 @@ navigation.icon: i-lucide-smartphone
 - معرفی Appium، امکانات، مولفه‌ها و معماری آن  
 :::
 
-## کارگاه‌های مرتبط
-
-::card-group
-
-::card
----
-title: خودکارسازی آزمون‌های وب
-description: آموزش خودکارسازی آزمون‌های رابط کاربری وب با Selenium و WebDriver
-icon: i-lucide-globe
-to: /workshops/automation-web
-color: primary
----
-کارگاهی برای یادگیری خودکارسازی تست‌های وب و توسعه مهارت‌های تست رابط کاربری.
-::
-::
-
 :::accordion-item{label="مفاهیم مقدماتی Appium"}
 - نصب و راه‌اندازی Appium  
 - اجرای یک پروژه ساده  

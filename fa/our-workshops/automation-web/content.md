@@ -41,22 +41,6 @@ navigation.icon: i-lucide-globe
 - امکانات، مولفه‌ها و معماری Selenium  
 :::
 
-## کارگاه‌های مرتبط
-
-::card-group
-
-::card
----
-title: خودکارسازی آزمون‌های موبایل
-description: آموزش خودکارسازی آزمون‌های رابط کاربری موبایل با Appium
-icon: i-lucide-smartphone
-to: /workshops/automation-mobile
-color: primary
----
-یادگیری تست خودکار اپلیکیشن‌های موبایل و توسعه مهارت‌های تست چندپلتفرمی.
-::
-::
-
 :::accordion-item{label="ضبط سناریو و تولید اسکریپت آزمون"}
 - راه‌اندازی Selenium IDE  
 - ضبط تعاملات مرورگر و تولید اسکریپت آزمون  
