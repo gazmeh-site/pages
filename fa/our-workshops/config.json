@@ -1,6 +1,6 @@
 {
     "class":"folder-class",
     "style": { 
-        "image":"rounded-full"
+        "image":"h-48 sm:h-52 md:h-54 lg:h-60"
     }
 }
