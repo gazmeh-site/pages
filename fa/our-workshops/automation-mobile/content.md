@@ -93,7 +93,7 @@ navigation.icon: i-lucide-smartphone
   ---
   title: تجمیع پیوسته و تضمین کیفیت سورس کد
   icon: i-lucide-git-branch
-  to: $PAGES_URL/our-workshops/test-devops
+  to: ../test-devops
   color: primary
   ---
   اجرای تست‌های خودکار وب در خط لوله CI/CD.
