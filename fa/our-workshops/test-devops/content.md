@@ -4,7 +4,7 @@ description: آموزش طراحی و پیاده‌سازی CI/CD با Jenkins،
 navigation.icon: i-lucide-git-branch
 ---
 
-::callout{icon="i-lucide-info"}
+::note
 در این کارگاه، فرآیند **تجمیع پیوسته (CI/CD)** و **تضمین کیفیت سورس کد** با تمرکز بر Jenkins، Docker و SonarQube به‌صورت عملی آموزش داده می‌شود.
 ::
 

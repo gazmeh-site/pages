@@ -4,7 +4,7 @@ description: آموزش اصولی Unit Testing با تمرکز بر JUnit 5، M
 navigation.icon: i-lucide-check-circle
 ---
 
-::callout{icon="i-lucide-info"}
+::note
 در این کارگاه، مفاهیم و تکنیک‌های **آزمون واحد (Unit Testing)** به‌صورت عمیق و عملی بررسی می‌شود تا کیفیت، پایداری و قابلیت نگهداری نرم‌افزار تضمین گردد.
 ::
 
